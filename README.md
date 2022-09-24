@@ -1,5 +1,7 @@
 # Issabel-4.0.0-1 - ISO-2021
-
+ 
+ **Issabel is a reliable and easy-to-use Unified Communications Solution. This web-based open source software has become the solution of choice for implementations of communications over IP around the globe.**
+ 
  Distro
   - CentOS Linux release (Core) -7-9
 
